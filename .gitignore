@@ -1,0 +1,13 @@
+
+# Local Gradle cache
+.gradle/
+
+# Generated build files and reports
+build/
+**/build/
+
+# Local Android SDK configuration
+local.properties
+
+# Android Studio local settings
+.idea/
